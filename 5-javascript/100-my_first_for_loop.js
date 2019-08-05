@@ -1,3 +1,4 @@
-var i;
+var i = 0;
 for (i = 100; i > 0; i--) {
-  console.log(i);}
+  console.log(i);
+}
